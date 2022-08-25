@@ -3,6 +3,9 @@
 
 ![](https://raw.githubusercontent.com/M0RC/aes256-ctr-cbc-implementation/main/demo_ctr.gif)
 
+## Description
+Here is my implementation of CTR and CBC modes for AES-256.
+
 ## Run the program
 ### Install dependencies
 ```bash
